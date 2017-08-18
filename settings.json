@@ -1,0 +1,30 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.iconTheme": "vs-seti",
+    "editor.lineHeight": 24,
+    "editor.rulers": [
+        79
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/*.egg-info": true
+    },
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "search.useIgnoreFilesByDefault": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "welcomePage",
+    "workbench.colorTheme": "Dracula Soft",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Path": "pycodestyle"
+}
